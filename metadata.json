@@ -1,0 +1,5 @@
+{
+  "name": "CareConnect",
+  "description": "A comprehensive healthcare appointment booking platform featuring doctor profiles, patient reviews, appointment management, and an AI-powered health assistant.",
+  "requestFramePermissions": []
+}
